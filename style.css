@@ -7,3 +7,15 @@
 #Projects {
   background-color: #5000ca;
 }
+
+section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#Gallery .row > * {
+  padding: 0;
+}
